@@ -8,7 +8,7 @@ Moreover, this code reproduces the experiments from the following paper where th
 models and algorithms where introduced:
 * A. Podosinnikova, F. Bach, S. Lacoste-Julien. [Beyond CCA: Moment Matching for Multi-View Models](https://arxiv.org/abs/1602.09013). ICML, 2016.
 
-Please cite this paper if you used this code for your research.
+Please cite this paper if you use this code for your research.
 
 
 These algorithms designed for the situations, where classical canonical correlation analysis
