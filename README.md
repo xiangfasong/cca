@@ -1,6 +1,6 @@
 ### Beyond CCA: Moment Matching for Multi-View Models
 
-####About
+#### About
 
 This project contains implementation of several moment matching based algorithms for the 
 estimation in the multi-view models closely related to canonical correlation analysis.
@@ -19,7 +19,7 @@ The code is mostly written in Matlab, but there are several C++ functions called
 and Linux are provided.
 
 
-####Quick start
+#### Quick start
 * make sure your Matlab recognizes a C++ compiler: ```mex -setup```
 * save all required paths and build mex files: ```install.m```
 * reproduce experiments: ```reproduce_figure_*```
@@ -38,6 +38,5 @@ Note that **discrete CCA** is designed for the cases when both views of the data
 
 
 
-####Questions and feedback
-
-I would be grateful for any feedback: success and failure stories of the methods, bugs, suggestions.. I would also be happy to answer questions regarding the code and related models, so don not hesitate to contact me. My name is Anastasia Podosinnikova and you can find my current contact details in my Github profile or on my webpage.
+#### Questions and feedback
+Please don't hesitate to contact me with questions regarding this code, usage of this algorithm, or bug reports.
